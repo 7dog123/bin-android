@@ -36,4 +36,4 @@ jobs:
          sudo apt-get install python python3 python3-pip
          pip install bootstrap-py
          cd binutils
-         ./build.py
+         python3 build.py
